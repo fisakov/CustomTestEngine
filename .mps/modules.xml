@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/solutions/net.jqwik.libs/net.jqwik.libs.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/samples.PropertyBasedTesting.discovery/samples.PropertyBasedTesting.discovery.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/sandbox/sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

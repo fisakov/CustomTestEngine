@@ -1,0 +1,23 @@
+defaultTasks 'installDependencies'
+
+repositories {
+	mavenCentral()
+}
+
+ext.jqwikVersion = '1.7.2'
+
+configurations {
+	jqwik
+}
+
+dependencies {
+	jqwik "net.jqwik:jqwik-api:${jqwikVersion}"
+	jqwik "net.jqwik:jqwik-web:${jqwikVersion}"
+	jqwik "net.jqwik:jqwik-time:${jqwikVersion}"
+}
+
+task installDependencies(type: Copy) {
+	from configurations.jqwik
+	into 'solutions/net.jqwik.libs/libs'
+}
+
