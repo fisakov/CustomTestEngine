@@ -3,8 +3,14 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="$PROJECT_DIR$/solutions/net.jqwik.libs/net.jqwik.libs.msd" folder="" />
-      <modulePath path="$PROJECT_DIR$/solutions/samples.PropertyBasedTesting.discovery/samples.PropertyBasedTesting.discovery.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/samples.PropertyBasedTesting.build/samples.PropertyBasedTesting.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/samples.PropertyBasedTesting.support/samples.PropertyBasedTesting.support.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/sandbox/sandbox.msd" folder="" />
     </projectModules>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CustomTestEngine.iml" filepath="$PROJECT_DIR$/.idea/CustomTestEngine.iml" />
+    </modules>
   </component>
 </project>
