@@ -1,0 +1,61 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PropertyBasedTests" type="JUnit Tests" factoryName="JUnit Tests">
+    <myJUnitSettings>
+      <MyState>
+        <option name="myModelRef" />
+        <option name="myModuleRef" />
+        <option name="myInProcess" value="true" />
+        <option name="myReuseCaches" value="true" />
+        <option name="myOverrideCachesLocation" value="false" />
+        <option name="myDebug" value="false" />
+        <option name="myCachesPath" value="$USER_HOME$/Library/Application Support/JetBrains/MPSJUnitRC0" />
+        <option name="myTestCases">
+          <list>
+            <option value="r:7e02f01d-1656-44a1-a04c-ea3e316af6b8(sandbox.propertyBased)/8478295823306481942" />
+          </list>
+        </option>
+        <option name="myTestMethods">
+          <list />
+        </option>
+        <option name="myRunType" value="3" />
+        <option name="myRunType2InProcess">
+          <InProcessFlagPerScope>
+            <option name="runType2InProcessFlag">
+              <map>
+                <entry key="0" value="true" />
+                <entry key="1" value="true" />
+                <entry key="2" value="true" />
+                <entry key="3" value="false" />
+                <entry key="4" value="true" />
+              </map>
+            </option>
+          </InProcessFlagPerScope>
+        </option>
+      </MyState>
+    </myJUnitSettings>
+    <myJavaRunParameters>
+      <MyState>
+        <option name="myJavaParameters">
+          <JavaRunParameters>
+            <option name="jrePath" value="" />
+            <option name="programParameters" value="" />
+            <option name="useAlternativeJre" value="false" />
+            <option name="vmOptions" value="-ea" />
+            <option name="workingDirectory" value="/Applications" />
+          </JavaRunParameters>
+        </option>
+      </MyState>
+    </myJavaRunParameters>
+    <myDeploySettings>
+      <MyState>
+        <option name="myPluginsToDeploy">
+          <list />
+        </option>
+      </MyState>
+    </myDeploySettings>
+    <method v="2">
+      <option name="jetbrains.mps.execution.configurations.implementation.plugin.plugin.AssemblePluginsBeforeTask_BeforeTask" enabled="true" />
+      <option name="jetbrains.mps.execution.configurations.pluginSolution.plugin.MakeNodePointers_BeforeTask" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -9,14 +9,13 @@ This project utilizes [jqwik](https://jqwik.net/) -- a Property Based Testing fr
 The project relies on a not-yet-released features in the upcoming MPS 2023.1. Daily builds are [available](https://teamcity.jetbrains.com/project/MPS_20231_Distribution) from the public TeamCity instance. 
 
  Before opening the project:
- - Execute `gradle` build in the checkout directory -- this step is necessary to download the required libraries 
- - Ensure the path `./MPS_HOME` in the checkout directory points to the 'Contents' folder of MPS distribution 
+ - Execute `gradle` build in the checkout directory -- this step is necessary to download the required libraries
 
 ## Instructions
 
  - Make sure the path variable `pbt_home` is set to point to the checkout directory 
  - After executing `Rebuild Project`, the provided run configuration `PropertyBasedTests` can be used to launch the sample test
- - Make sure the plugin `samples.ProperyBasedTesting` is deployed in the run test configuration
+ - The run configuration `Module tests` launches ant with the build script that includes launching of all tests in sanbox solution
 
 ## Details
 
