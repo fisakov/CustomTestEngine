@@ -104,6 +104,7 @@
       <concept id="1204053956946" name="jetbrains.mps.baseLanguage.structure.IMethodCall" flags="ng" index="1ndlxa">
         <reference id="1068499141037" name="baseMethodDeclaration" index="37wK5l" />
         <child id="1068499141038" name="actualArgument" index="37wK5m" />
+        <child id="4972241301747169160" name="typeArgument" index="3PaCim" />
       </concept>
       <concept id="1212685548494" name="jetbrains.mps.baseLanguage.structure.ClassCreator" flags="nn" index="1pGfFk">
         <child id="1212687122400" name="typeParameter" index="1pMfVU" />
@@ -468,6 +469,7 @@
               <node concept="35c_gC" id="2OeoySePzHd" role="37wK5m">
                 <ref role="35c_gD" to="tpee:fz12cDA" resolve="ClassConcept" />
               </node>
+              <node concept="3bZ5Sz" id="7jaPWZirrgz" role="3PaCim" />
             </node>
           </node>
         </node>
