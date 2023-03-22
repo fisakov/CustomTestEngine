@@ -83,6 +83,8 @@
         <uses />
         <library jar="../lib/jqwik-api-1.7.2.jar" />
         <library jar="../lib/jqwik-engine-1.7.2.jar" />
+        <library jar="../lib/jqwik-web-1.7.2.jar" />
+        <library jar="../lib/jqwik-time-1.7.2.jar" />
         <classpath>
           <entry path="." />
         </classpath>
@@ -383,6 +385,8 @@
       <classpath>
         <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-api-1.7.2.jar" />
         <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-engine-1.7.2.jar" />
+        <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-web-1.7.2.jar" />
+        <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-time-1.7.2.jar" />
         <fileset dir="${artifacts.mps}/plugins/mps-testing/lib" includes="apiguardian-api-1.1.2.jar" />
         <fileset dir="${artifacts.mps}/plugins/mps-testing/lib" includes="junit-jupiter-api-5.9.1.jar" />
         <fileset dir="${artifacts.mps}/plugins/mps-testing/lib" includes="junit-jupiter-engine-5.9.1.jar" />
@@ -433,6 +437,8 @@
         <fileset file="${artifacts.mps}/lib/mps-workbench.jar" />
         <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-api-1.7.2.jar" />
         <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-engine-1.7.2.jar" />
+        <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-web-1.7.2.jar" />
+        <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-time-1.7.2.jar" />
         <fileset file="${artifacts.mps}/lib/app.jar" />
         <fileset file="${artifacts.mps}/lib/3rd-party-rt.jar" />
         <fileset file="${artifacts.mps}/lib/util.jar" />
@@ -502,6 +508,8 @@
         <fileset file="${artifacts.mps}/lib/mps-test.jar" />
         <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-api-1.7.2.jar" />
         <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-engine-1.7.2.jar" />
+        <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-web-1.7.2.jar" />
+        <fileset file="${basedir}/solutions/net.jqwik.libs/libs/jqwik-time-1.7.2.jar" />
         <fileset file="${artifacts.mps}/lib/ant/lib/ant.jar" />
         <fileset file="${artifacts.mps}/lib/junit4.jar" />
         <fileset file="${artifacts.mps}/lib/app.jar" />

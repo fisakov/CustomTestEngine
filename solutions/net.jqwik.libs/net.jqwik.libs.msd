@@ -12,13 +12,15 @@
     </modelRoot>
   </models>
   <facets>
-    <facet compile="mps" classes="mps" ext="yes" type="java">
+    <facet compile="mps" classes="mps" ext="yes" type="java" languageLevel="JAVA_8">
       <classes generated="true" path="${module}/classes_gen" />
     </facet>
   </facets>
   <stubModelEntries>
     <stubModelEntry path="${module}/libs/jqwik-api-1.7.2.jar" />
     <stubModelEntry path="${module}/libs/jqwik-engine-1.7.2.jar" />
+    <stubModelEntry path="${module}/libs/jqwik-web-1.7.2.jar" />
+    <stubModelEntry path="${module}/libs/jqwik-time-1.7.2.jar" />
   </stubModelEntries>
   <sourcePath />
   <dependencies>

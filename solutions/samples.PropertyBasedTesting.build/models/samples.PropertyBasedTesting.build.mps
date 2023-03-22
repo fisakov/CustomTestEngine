@@ -270,20 +270,56 @@
         <property role="3ZfqAx" value="models" />
         <property role="1Hdu6h" value="true" />
         <property role="1HemKv" value="true" />
-        <node concept="3LXTmp" id="5p1TI50WXP3" role="1HemKq">
-          <node concept="55IIr" id="5p1TI50WXOY" role="3LXTmr">
-            <node concept="2Ry0Ak" id="5p1TI50WXOZ" role="iGT6I">
+        <node concept="3LXTmp" id="4Huu5lXpFBz" role="1HemKq">
+          <node concept="55IIr" id="4Huu5lXpFBv" role="3LXTmr">
+            <node concept="2Ry0Ak" id="4Huu5lXpFBw" role="iGT6I">
               <property role="2Ry0Am" value="solutions" />
-              <node concept="2Ry0Ak" id="5p1TI50WXP0" role="2Ry0An">
+              <node concept="2Ry0Ak" id="4Huu5lXpFBx" role="2Ry0An">
                 <property role="2Ry0Am" value="net.jqwik.libs" />
-                <node concept="2Ry0Ak" id="5p1TI50WXP1" role="2Ry0An">
+                <node concept="2Ry0Ak" id="4Huu5lXpFBy" role="2Ry0An">
                   <property role="2Ry0Am" value="models" />
                 </node>
               </node>
             </node>
           </node>
-          <node concept="3qWCbU" id="5p1TI50WXP4" role="3LXTna">
+          <node concept="3qWCbU" id="4Huu5lXpFB$" role="3LXTna">
             <property role="3qWCbO" value="**/*.mps, **/*.mpsr, **/.model" />
+          </node>
+        </node>
+      </node>
+      <node concept="1SiIV0" id="4Huu5lXpFBt" role="3bR37C">
+        <node concept="1BurEX" id="4Huu5lXpFBu" role="1SiIV1">
+          <node concept="55IIr" id="4Huu5lXpFBo" role="1BurEY">
+            <node concept="2Ry0Ak" id="4Huu5lXpFBp" role="iGT6I">
+              <property role="2Ry0Am" value="solutions" />
+              <node concept="2Ry0Ak" id="4Huu5lXpFBq" role="2Ry0An">
+                <property role="2Ry0Am" value="net.jqwik.libs" />
+                <node concept="2Ry0Ak" id="4Huu5lXpFBr" role="2Ry0An">
+                  <property role="2Ry0Am" value="libs" />
+                  <node concept="2Ry0Ak" id="4Huu5lXpFBs" role="2Ry0An">
+                    <property role="2Ry0Am" value="jqwik-web-1.7.2.jar" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node concept="1SiIV0" id="7jaPWZiqO15" role="3bR37C">
+        <node concept="1BurEX" id="7jaPWZiqO16" role="1SiIV1">
+          <node concept="55IIr" id="7jaPWZiqO10" role="1BurEY">
+            <node concept="2Ry0Ak" id="7jaPWZiqO11" role="iGT6I">
+              <property role="2Ry0Am" value="solutions" />
+              <node concept="2Ry0Ak" id="7jaPWZiqO12" role="2Ry0An">
+                <property role="2Ry0Am" value="net.jqwik.libs" />
+                <node concept="2Ry0Ak" id="7jaPWZiqO13" role="2Ry0An">
+                  <property role="2Ry0Am" value="libs" />
+                  <node concept="2Ry0Ak" id="7jaPWZiqO14" role="2Ry0An">
+                    <property role="2Ry0Am" value="jqwik-time-1.7.2.jar" />
+                  </node>
+                </node>
+              </node>
+            </node>
           </node>
         </node>
       </node>
@@ -337,19 +373,19 @@
         <property role="3ZfqAx" value="models" />
         <property role="1Hdu6h" value="true" />
         <property role="1HemKv" value="true" />
-        <node concept="3LXTmp" id="7JvIet8qPmH" role="1HemKq">
-          <node concept="55IIr" id="7JvIet8qPmD" role="3LXTmr">
-            <node concept="2Ry0Ak" id="7JvIet8qPmE" role="iGT6I">
+        <node concept="3LXTmp" id="4Huu5lXpFBD" role="1HemKq">
+          <node concept="55IIr" id="4Huu5lXpFB_" role="3LXTmr">
+            <node concept="2Ry0Ak" id="4Huu5lXpFBA" role="iGT6I">
               <property role="2Ry0Am" value="solutions" />
-              <node concept="2Ry0Ak" id="7JvIet8qPmF" role="2Ry0An">
+              <node concept="2Ry0Ak" id="4Huu5lXpFBB" role="2Ry0An">
                 <property role="2Ry0Am" value="samples.PropertyBasedTesting.support" />
-                <node concept="2Ry0Ak" id="7JvIet8qPmG" role="2Ry0An">
+                <node concept="2Ry0Ak" id="4Huu5lXpFBC" role="2Ry0An">
                   <property role="2Ry0Am" value="models" />
                 </node>
               </node>
             </node>
           </node>
-          <node concept="3qWCbU" id="7JvIet8qPmI" role="3LXTna">
+          <node concept="3qWCbU" id="4Huu5lXpFBE" role="3LXTna">
             <property role="3qWCbO" value="**/*.mps, **/*.mpsr, **/.model" />
           </node>
         </node>
@@ -379,19 +415,19 @@
         <property role="3ZfqAx" value="models" />
         <property role="1Hdu6h" value="true" />
         <property role="1HemKv" value="true" />
-        <node concept="3LXTmp" id="2OeoySePI6G" role="1HemKq">
-          <node concept="55IIr" id="2OeoySePI6C" role="3LXTmr">
-            <node concept="2Ry0Ak" id="2OeoySePI6D" role="iGT6I">
+        <node concept="3LXTmp" id="4Huu5lXpFBJ" role="1HemKq">
+          <node concept="55IIr" id="4Huu5lXpFBF" role="3LXTmr">
+            <node concept="2Ry0Ak" id="4Huu5lXpFBG" role="iGT6I">
               <property role="2Ry0Am" value="solutions" />
-              <node concept="2Ry0Ak" id="2OeoySePI6E" role="2Ry0An">
+              <node concept="2Ry0Ak" id="4Huu5lXpFBH" role="2Ry0An">
                 <property role="2Ry0Am" value="sandbox" />
-                <node concept="2Ry0Ak" id="2OeoySePI6F" role="2Ry0An">
+                <node concept="2Ry0Ak" id="4Huu5lXpFBI" role="2Ry0An">
                   <property role="2Ry0Am" value="models" />
                 </node>
               </node>
             </node>
           </node>
-          <node concept="3qWCbU" id="2OeoySePI6H" role="3LXTna">
+          <node concept="3qWCbU" id="4Huu5lXpFBK" role="3LXTna">
             <property role="3qWCbO" value="**/*.mps, **/*.mpsr, **/.model" />
           </node>
         </node>
