@@ -204,7 +204,7 @@
         <ref role="m$_yA" node="5p1TI50WXOe" resolve="net.jqwik.libs" />
       </node>
       <node concept="m$_yB" id="5p1TI50XaR6" role="m$_yh">
-        <ref role="m$_yA" node="5p1TI50X1Vl" resolve="samples.PropertyBasedTesting.discovery" />
+        <ref role="m$_yA" node="5p1TI50X1Vl" resolve="samples.PropertyBasedTesting.support" />
       </node>
       <node concept="m$_yB" id="2OeoySePVln" role="m$_yh">
         <ref role="m$_yA" node="2OeoySePI2o" resolve="sandbox" />

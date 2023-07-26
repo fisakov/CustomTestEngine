@@ -210,7 +210,7 @@
           </node>
         </node>
         <node concept="2AHcQZ" id="5Fqf1Yj4iOx" role="2AJF6D">
-          <ref role="2AI5Lk" to="wyt6:~Override" />
+          <ref role="2AI5Lk" to="wyt6:~Override" resolve="Override" />
         </node>
       </node>
     </node>
@@ -448,7 +448,7 @@
       <node concept="2B6LJw" id="5Fqf1Yj4kE$" role="2B76xF">
         <ref role="2B6OnR" to="555:~AddLifecycleHook.value()" resolve="value" />
         <node concept="3VsKOn" id="5Fqf1Yj4kLv" role="2B70Vg">
-          <ref role="3VsUkX" node="5Fqf1Yj4iHs" resolve="SetEnvironmentHook" />
+          <ref role="3VsUkX" node="5Fqf1Yj4iHs" resolve="PropertyBasedTests.SetEnvironmentHook" />
         </node>
       </node>
     </node>

@@ -114,7 +114,7 @@
       <node concept="2ShNRf" id="2OeoySeQilL" role="33vP2m">
         <node concept="HV5vD" id="2OeoySeQilM" role="2ShVmc">
           <property role="373rjd" value="true" />
-          <ref role="HV5vE" to="oe41:7mCXi6wSuEM" resolve="TestClassDiscoveryParticipant" />
+          <ref role="HV5vE" to="oe41:7mCXi6wSuEM" resolve="JqwikTestDiscovery.TestClassDiscoveryParticipant" />
         </node>
       </node>
     </node>
@@ -157,7 +157,7 @@
     <node concept="2tJIrI" id="2OeoySeQeqp" role="jymVt" />
     <node concept="3Tm1VV" id="2OeoySeQb$4" role="1B3o_S" />
     <node concept="3uibUv" id="2OeoySeQbDX" role="EKbjA">
-      <ref role="3uigEE" to="ze1i:~ModuleRuntime$Activator" resolve="Activator" />
+      <ref role="3uigEE" to="ze1i:~ModuleRuntime$Activator" resolve="ModuleRuntime.Activator" />
     </node>
     <node concept="3clFb_" id="2OeoySeQbFs" role="jymVt">
       <property role="TrG5h" value="activate" />
@@ -194,7 +194,7 @@
         </node>
       </node>
       <node concept="2AHcQZ" id="2OeoySeQbFy" role="2AJF6D">
-        <ref role="2AI5Lk" to="wyt6:~Override" />
+        <ref role="2AI5Lk" to="wyt6:~Override" resolve="Override" />
       </node>
     </node>
     <node concept="2tJIrI" id="2OeoySeQjqn" role="jymVt" />
@@ -233,7 +233,7 @@
         </node>
       </node>
       <node concept="2AHcQZ" id="2OeoySeQbFI" role="2AJF6D">
-        <ref role="2AI5Lk" to="wyt6:~Override" />
+        <ref role="2AI5Lk" to="wyt6:~Override" resolve="Override" />
       </node>
     </node>
     <node concept="2tJIrI" id="2OeoySeQctr" role="jymVt" />
