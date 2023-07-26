@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="net.jqwik.libs" uuid="b134d8fc-c710-4d4e-ad4b-13890670c29e" moduleVersion="0" compileInMPS="true">
+<solution name="net.jqwik.libs" uuid="b134d8fc-c710-4d4e-ad4b-13890670c29e" moduleVersion="0">
   <models>
-    <modelRoot type="default" contentPath="${module}">
-      <sourceRoot location="models" />
-    </modelRoot>
+    <modelRoot type="default" contentPath="${module}" />
     <modelRoot type="java_classes" contentPath="${module}/libs">
       <sourceRoot location="jqwik-api-1.7.2.jar" />
-      <sourceRoot location="jqwik-time-1.7.2.jar" />
-      <sourceRoot location="jqwik-web-1.7.2.jar" />
       <sourceRoot location="jqwik-engine-1.7.2.jar" />
     </modelRoot>
   </models>
   <facets>
     <facet compile="mps" classes="mps" ext="yes" type="java" languageLevel="JAVA_8">
       <classes generated="true" path="${module}/classes_gen" />
+      <library location="${module}/libs/jqwik-api-1.7.2.jar" />
+      <library location="${module}/libs/jqwik-engine-1.7.2.jar" />
     </facet>
   </facets>
-  <stubModelEntries>
-    <stubModelEntry path="${module}/libs/jqwik-api-1.7.2.jar" />
-    <stubModelEntry path="${module}/libs/jqwik-engine-1.7.2.jar" />
-    <stubModelEntry path="${module}/libs/jqwik-web-1.7.2.jar" />
-    <stubModelEntry path="${module}/libs/jqwik-time-1.7.2.jar" />
-  </stubModelEntries>
-  <sourcePath />
   <dependencies>
     <dependency reexport="false">63b449db-0918-4a4a-a891-2c430ab133e4(org.junit.junit5)</dependency>
   </dependencies>
