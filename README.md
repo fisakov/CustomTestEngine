@@ -1,14 +1,16 @@
-# Property Based Testing
+# Custom Test Engine
 
 This project demonstrates the use of auxilliary test engines with JUnit Platform, as well as support for accessing MPS model from tests.
+
+## Property Based Testing
 
 This project utilizes [jqwik](https://jqwik.net/) -- a Property Based Testing framework. 
 
 ## Dependencies
 
-The project relies on a not-yet-released features in the upcoming MPS 2023.1. Daily builds are [available](https://teamcity.jetbrains.com/project/MPS_20231_Distribution) from the public TeamCity instance. 
+The project relies on a not-yet-released features in the upcoming MPS 2023.2. Daily builds are [available](https://teamcity.jetbrains.com/project/MPS_20232_Distribution) from the public TeamCity instance. 
 
- Before opening the project:
+NB! Before opening the project:
  - Execute `gradle` build in the checkout directory -- this step is necessary to download the required libraries
 
 ## Instructions
